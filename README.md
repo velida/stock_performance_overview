@@ -1,5 +1,4 @@
-# stock_performance_overview
-Developing Data Products - Peer Assesment Projects
+# Developing Data Products - Peer Assesment Projects
 ======================
 
 This README file is the supporting documentation accompanying this Shiny application. It includes three parts: 
