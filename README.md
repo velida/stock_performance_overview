@@ -51,10 +51,7 @@ This Shiny application computes the performance indicator of three stocks: TDC, 
 Data set source: http://www.nasdaq.com/
 
 ## 3. How to visualize the Shiny application and the presentation
-You can visualize the Shiny application as follows:
-Option 1: Direct link: click [here]( https://velida.shinyapps.io/StockPerformance/)
-
-Option 2: Run the following commands:
+You can visualize the Shiny application by clicking [here]( https://velida.shinyapps.io/StockPerformance/) or by runing the following commands:
 
 ```
 library(shiny)
