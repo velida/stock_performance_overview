@@ -57,4 +57,4 @@ You can visualize the Shiny application by clicking [here]( https://velida.shiny
 library(shiny)
 runGitHub( "stock_performance_overview", "velida") 
 ```
-You can access my presentation here: [here]
+You can access my presentation here: [here](http://rpubs.com/velida/stockperformance)
