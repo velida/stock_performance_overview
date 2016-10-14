@@ -1,8 +1,6 @@
 # stock_performance_overview
-Stock Performance Overview TDC, ORCL, IBM
 Developing Data Products - Peer Assesment Projects
 ======================
-
 
 This README file is the supporting documentation accompanying this Shiny application. It includes three parts: 
 
@@ -48,7 +46,7 @@ Your presentation must satisfy the following
 ## 2. Description of this Shiny application
 
 This Shiny application computes the performance indicator of three stocks: TDC, ORCL, IBM. The user can enter a start date and the app calculates by how many percent the close price of the stocks on a particular date deviate from the close price of the stocks on start date. The time series interval can be set by the user.
-Data set source: http://www.nasdaq.com/
+Data set source: [http://www.nasdaq.com/](http://www.nasdaq.com/)
 
 ## 3. How to visualize the Shiny application and the presentation
 You can visualize the Shiny application by clicking [here]( https://velida.shinyapps.io/StockPerformance/) or by runing the following commands:
